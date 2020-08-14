@@ -1,2 +1,2 @@
-# resposive
-pagina de platzi curso responsive
+# desarrollo-web-portafolio
+Proyecto realizado 

@@ -1,0 +1,14 @@
+Fuentes de iconos:
+Todo menú necesita de la presencia de iconos, por este motivo, aprenderás 
+sobre las fuentes de iconos y las aplicarás en la realización del 
+menú de tu proyecto.
+
+En este abordaje a las fuentes de iconos, conocerás la plataforma icomoon.io, en ella 
+podrás importar o añadir familias de iconos, desde tu computador o desde el sistema.
+
+Posteriormente, llevarás los archivos que selecciones a tu editor de código, allí 
+trabajarás sobre ellos con la etiqueta @font- face, que acogerá a otros atributos como
+ font- family, font- style y font- weigth, font- variant, entre otros
+
+ (en este ejemplo al copiar los iconos teve que agregar la carpeta fonts y un documento
+ de stylo.css copiarlo todo y llevarlo hasta arriba del proyecto)
